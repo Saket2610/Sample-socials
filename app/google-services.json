@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "413143499396",
+    "firebase_url": "https://sample-socials-xd-default-rtdb.firebaseio.com",
+    "project_id": "sample-socials-xd",
+    "storage_bucket": "sample-socials-xd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413143499396:android:61ab9179826a04948c38d1",
+        "android_client_info": {
+          "package_name": "com.neatroots.samplesocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_IkzmLSEgaiL9cc5zyRhYaYUgDN1mD-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
